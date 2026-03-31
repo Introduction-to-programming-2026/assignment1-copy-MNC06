@@ -1,4 +1,3 @@
-// Buggy example for printf
 #include <stdio.h>
 
 int main(void)
