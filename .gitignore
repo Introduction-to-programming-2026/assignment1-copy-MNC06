@@ -1,0 +1,9 @@
+# Ignore compiled C programs
+*.o
+*.out
+*.exe
+
+# Ignore build outputs
+scores
+greet
+hello
